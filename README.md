@@ -1,5 +1,5 @@
 # UnityFPSGame
-A project I made in Unity to try my hand at FPS game mechanics, including player motion, aiming, AI, and dynamic environment details.
+A project made in Unity to try my hand at FPS game mechanics, including player motion, aiming, AI, and dynamic environment details.
 
 Included are two demos compiled to run on Windows, found inside the "Builds" folder. Feel free to try them out.
 
